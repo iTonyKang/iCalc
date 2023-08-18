@@ -1,3 +1,3 @@
 # iCalc
 Simple Calculator
-\nI am doing something cool.
+I am doing something cool.
